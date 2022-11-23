@@ -1,6 +1,15 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+void  bsort(int A[], int n){
+  for(int i=0; i<n;i++){
+    for(int j=0; j<n-1-i;j++){
+      if(A[i] < A[j]){
+        
+      }
+    }
+  }
+}
   int main()
 {
    long long t;
